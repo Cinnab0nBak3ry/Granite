@@ -1,19 +1,19 @@
-#app-mount .sidebar-1tnWFu {
+#app-mount .sidebar_a4d4d9 {
 	// Server dropdown selected
-	.container-1-ERn5 {
+	.container_fd6364 {
 		background: var(--toolbar-background);
-		&.selected-1GtAC5 .header-3OsQeK {
+		&.selected_fd6364 .header_fd6364 {
 			background: var(--background);
 			border-bottom: 1px solid transparent;
-			.name-3Uvkvr {
+			.name_fd6364 {
 				color: var(--toolbar-text-normal);
 			}
-			.button-2BMPJJ {
+			.button_a79c58 {
 				border-top: 5px solid var(--toolbar-text-normal);
 			}
 		}
 	}
-	.header-3OsQeK {
+	.header_fd6364 {
 		box-shadow: none;
 		border-bottom: 1px solid var(--toolbar-border);
 		border-right: 1px solid var(--toolbar-border);
@@ -28,7 +28,7 @@
 		z-index: 11;
 		filter: none;
 		cursor: var(--cursor);
-		.guildIconContainer-3QvE6w {
+		.guildIconContainer_ed9816 {
 			margin-right: var(--spacing);
 			.disableColor-MwOAZf,
 			.iconBackgroundTierNone-3MPhMJ,
@@ -48,7 +48,7 @@
 				color: var(--toolbar-text-normal);
 			}
 		}
-		.name-3Uvkvr {
+		.name_fd6364 {
 			font-size: var(--font-size);
 			font-weight: var(--font-weight-semibold);
 			color: var(--toolbar-text-normal);
@@ -63,7 +63,7 @@
 			}
 		}
 		// Chevron
-		.button-2BMPJJ {
+		.button_a79c58 {
 			transform-origin: center;
 			transition: none;
 			position: absolute;
@@ -78,7 +78,7 @@
 			g {
 				display: none;
 			}
-			&.open-3fGK6o {
+			&.open_a79c58 {
 				transform: rotate(180deg);
 			}
 		}
@@ -87,43 +87,43 @@
 			.name-3YKhmS {
 				color: var(--toolbar-text-focus);
 			}
-			.button-2BMPJJ {
+			.button_a79c58 {
 				border-top: 5px solid var(--toolbar-text-focus);
 			}
 		}
 	}
 	// Banner image
-	.animatedContainer-2laTjx {
+	.animatedContainer_fd6364 {
 		box-shadow: none;
 		mask: linear-gradient(rgb(0, 0, 0, 0.9) 0%, rgb(0, 0, 0, 0) 90%) !important;
 		z-index: 10;
 		pointer-events: none;
 	}
-	.bannerImage-ubW8K- {
+	.bannerImage_fd6364 {
 		width: var(--sidebar-width);
 		top: 0;
 	}
-	.bannerImg-2PzH6z {
+	.bannerImg_fd6364 {
 		width: 100%;
 	}
 }
 
 // Verified Guild (Global Component)
 
-.verified-1Jv_7P {
+.verified_d082f7 {
 	color: rgb(var(--status-green));
 }
-.partnered-23cXFN {
+.partnered_d082f7 {
 	color: var(--accent-solid);
 }
 
 // Light Mode
-.theme-light #app-mount .sidebar-1tnWFu .container-2Rl01u.selected-WP3kCM .header-3OsQeK {
+.theme-light #app-mount .sidebar_a4d4d9 .container-2Rl01u.selected-WP3kCM .header_fd6364 {
 	border-right: none;
 	h1 {
 		color: var(--text-focus);
 	}
-	.button-2BMPJJ {
+	.button_a79c58 {
 		border-top: 5px solid var(--text-focus);
 	}
 }

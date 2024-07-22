@@ -1,8 +1,8 @@
 #app-mount {
-	.popout-2iWAc-.force-theme.content-i-YmzK {
+	.popout-2iWAc-.force-theme.content_fcfd05 {
 		padding: var(--spacing);
 		border: 1px solid var(--base-border);
-		&.leftArrow-2gmK1H::before {
+		&.leftArrow_da5928::before {
 			height: 10px;
 			width: 10px;
 			background: var(--background);
@@ -20,28 +20,28 @@
 		.channelsTitle-26pflO {
 			margin: 0;
 		}
-		.body-1V700N p,
-		div.body-1V700N,
-		p.body-1V700N {
+		.body_fcfd05 p,
+		div.body_fcfd05,
+		p.body_fcfd05 {
 			color: var(--text-muted);
 			font-size: var(--font-size);
 			font-weight: var(--font-weight);
 			line-height: normal;
 			margin-bottom: var(--spacing);
 		}
-		.title-25RSW7 {
+		.title_fcfd05 {
 			color: var(--text-normal);
 			font-size: var(--font-size);
 			font-weight: var(--font-weight-semibold);
 			margin-bottom: var(--spacing-third);
 		}
-		.buttonContainer-2LQN58 {
+		.buttonContainer_fcfd05 {
 			margin-top: var(--spacing);
 			button {
 				margin: 0;
 			}
-			.buttonSkipCenterAlign-3S-UYG,
-			.buttonSkipLeftAlign-2icbri {
+			.buttonSkipCenterAlign_fcfd05,
+			.buttonSkipLeftAlign_fcfd05 {
 				font-size: var(--font-size);
 				font-weight: var(--font-weight-normal);
 				cursor: var(--cursor);
@@ -63,7 +63,7 @@
 					box-shadow: 0 0 0 1px currentColor !important;
 					border: 1px solid currentColor !important;
 				}
-				&.buttonSkipCenterAlign-3S-UYG {
+				&.buttonSkipCenterAlign_fcfd05 {
 					margin-left: var(--spacing);
 				}
 			}
@@ -75,13 +75,13 @@
 
 html.theme-light {
 	#app-mount
-		.popout-2iWAc-.force-theme.content-i-YmzK
-		.buttonContainer-2LQN58
-		.buttonSkipCenterAlign-3S-UYG,
+		.popout-2iWAc-.force-theme.content_fcfd05
+		.buttonContainer_fcfd05
+		.buttonSkipCenterAlign_fcfd05,
 	#app-mount
-		.popout-2iWAc-.force-theme.content-i-YmzK
-		.buttonContainer-2LQN58
-		.buttonSkipLeftAlign-2icbri {
+		.popout-2iWAc-.force-theme.content_fcfd05
+		.buttonContainer_fcfd05
+		.buttonSkipLeftAlign_fcfd05 {
 		&:hover {
 			background: var(--background);
 			border: 1px solid var(--secondary-border);

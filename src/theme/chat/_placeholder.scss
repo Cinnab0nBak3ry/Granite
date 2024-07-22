@@ -1,13 +1,13 @@
 @use '../assets';
 
-#app-mount .chat-2ZfjoI {
-	.wrapper-3HVHpV {
+#app-mount .chat_a7d72e {
+	.wrapper_ba0ffb {
 		background: var(--background-alt);
 		display: flex;
 		flex-direction: column;
 		justify-content: flex-end;
 	}
-	.wrapper-15CKyy {
+	.wrapper_b75bb9 {
 		background: transparent;
 		padding-top: var(--spacing);
 		padding-bottom: var(--spacing);
@@ -20,7 +20,7 @@
 			margin-top: 0 !important;
 		}
 	}
-	.avatar-l9Txm5 {
+	.avatar_b75bb9 {
 		border-radius: var(--avatar-radius);
 		width: var(--avatar-size);
 		height: var(--avatar-size);
@@ -41,8 +41,8 @@
 			mask: url(assets.$icon_person) center/40% no-repeat;
 		}
 	}
-	.attachment-16cAbS,
-	.blob-1uHjdp {
+	.attachment_b75bb9,
+	.blob_b75bb9 {
 		border-radius: var(--border-radius);
 		background: var(--text-muted);
 		height: 4px;

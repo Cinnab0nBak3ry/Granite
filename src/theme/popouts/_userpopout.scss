@@ -68,14 +68,14 @@
 		display: none;
 	}
 
-	.roles-3zC7MX {
+	.roles_fa2f72 {
 		margin: 0;
 		padding: 0 var(--spacing) var(--spacing);
 		display: flex;
 		gap: var(--spacing-half);
 	}
 	.member-perm,
-	.role-2TIOKu {
+	.role_e4010c {
 		border: none;
 		position: relative;
 		border-radius: 50px;
@@ -85,25 +85,25 @@
 		height: auto;
 		height: 22px;
 		background: transparent;
-		&:hover .roleCircle-3TFUOr,
-		&:active .roleCircle-3TFUOr {
+		&:hover .roleCircle_a26d7b,
+		&:active .roleCircle_a26d7b {
 			opacity: 1;
 			box-sizing: border-box;
-			.roleRemoveIcon-387wKV {
+			.roleRemoveIcon_e4010c {
 				opacity: 1;
 			}
 		}
 
-		.roleRemoveButton-17oXnT {
+		.roleRemoveButton_f9575e {
 			position: absolute;
 			inset: 0;
-			&[aria-hidden='false']:hover ~ .roleName-2ZJJYR {
+			&[aria-hidden='false']:hover ~ .roleName_e4010c {
 				opacity: 0;
 				pointer-events: none;
 			}
 		}
 		.perm-circle,
-		.roleCircle-3TFUOr {
+		.roleCircle_a26d7b {
 			margin: 0;
 			border-radius: var(--border-radius);
 			position: absolute;
@@ -113,7 +113,7 @@
 			height: 100%;
 			opacity: 0.75;
 			filter: none;
-			.roleRemoveIcon-387wKV {
+			.roleRemoveIcon_e4010c {
 				position: relative;
 				z-index: 10;
 				background: inherit;
@@ -131,7 +131,7 @@
 			}
 		}
 		.member-perm .name,
-		.roleName-2ZJJYR {
+		.roleName_e4010c {
 			overflow: hidden;
 			line-height: normal;
 			position: relative;
@@ -142,7 +142,7 @@
 			font-weight: var(--font-weight-normal);
 		}
 	}
-	.actionButton-1YKTU0 {
+	.actionButton_e4010c {
 		position: absolute;
 		top: calc(var(--spacing-triple) / -1 - var(--spacing-half) - 2px);
 		right: 0;
@@ -155,7 +155,7 @@
 		color: var(--text-muted);
 		cursor: var(--cursor);
 		height: 26px;
-		.addButtonIcon-3HZ_2f {
+		.addButtonIcon_e4010c {
 			height: var(--font-size);
 			width: var(--font-size);
 			cursor: var(--cursor);

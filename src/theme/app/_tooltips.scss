@@ -1,5 +1,5 @@
 #app-mount {
-	.tooltip-33Jwqe,
+	.tooltip_b6c360,
 	.subscribeTooltipWrapper-32-Ce8 {
 		padding: var(--spacing-third) var(--spacing);
 		border-radius: var(--border-radius);
@@ -33,10 +33,10 @@
 				margin-top: var(--spacing);
 			}
 		}
-		.tooltipContent-38tm3I {
+		.tooltipContent_b6c360 {
 			padding: 0;
 		}
-		.tooltipPointer-sMBQqe,
+		.tooltipPointer_b6c360,
 		&.subscribeTooltipWrapper-32-Ce8::after {
 			background: var(--background);
 			border: 1px solid var(--base-border);
@@ -44,20 +44,20 @@
 			height: 8px;
 			clip-path: polygon(100% 0, 0% 100%, 0 0);
 		}
-		&.tooltipRight-1UPNyA .tooltipPointer-sMBQqe {
+		&.tooltipRight_b6c360 .tooltipPointer_b6c360 {
 			transform: rotate(-45deg);
 			margin-right: -5px;
 		}
-		&.tooltipLeft-3H43DQ .tooltipPointer-sMBQqe {
+		&.tooltipLeft-3H43DQ .tooltipPointer_b6c360 {
 			transform: rotate(135deg);
 			margin-left: -5px;
 		}
-		&.tooltipBottom-1itlv3 .tooltipPointer-sMBQqe,
+		&.tooltipBottom_b6c360 .tooltipPointer_b6c360,
 		&.subscribeTooltipWrapper-32-Ce8::after {
 			transform: rotate(45deg);
 			margin-bottom: -5px;
 		}
-		&.tooltipTop-CgYHUZ .tooltipPointer-sMBQqe {
+		&.tooltipTop_b6c360 .tooltipPointer_b6c360 {
 			transform: rotate(-135deg);
 			margin-top: -5px;
 		}
@@ -70,13 +70,13 @@
 				font-size: var(--font-size-sm);
 			}
 		}
-		.userTooltip-3rhC4_ {
+		.userTooltip_a0bdd1 {
 			font-size: var(--font-size);
 			color: var(--text-normal);
-			.avatar-2OcaMf {
+			.avatar_a0bdd1 {
 				margin-right: var(--spacing-half);
 			}
-			.discriminator-3-qTC0 {
+			.discriminator_a0bdd1 {
 				opacity: 1;
 				color: var(--text-muted);
 			}
